@@ -3,7 +3,7 @@
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=rust,zig,c,cpp,devto,cloudflare,git,github,linux,md,html,matlab,bash,r,rocket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,rocket,zig,c,cpp,bash,devto,cloudflare,git,github,linux,md,html,matlab,r)](https://skillicons.dev)
 
 ## Stats
 
